@@ -1,4 +1,4 @@
-**Speech to Text Web Application**
+#Speech to Text Web Application
 This is a web application that allows users to transcribe their speech in real-time. The application captures audio from the microphone and converts it into text using speech recognition technology. Users can click a button to start and stop the recording, and the transcribed text is displayed on the screen.
 
 Technologies Used
@@ -8,32 +8,34 @@ SpeechRecognition: A Python library for performing speech recognition
 PyAudio: A Python library for audio input and output
 Installation
 Clone the repository:
-
-`shell
+```
+shell
 Copy code
 git clone <repository-url>
 Navigate to the project directory:
-`
-`shell
+```
+```
+shell
 Copy code
 cd speech-to-text-web-app
 Install the required dependencies:
-`
-`shell
+```
+```
+shell
 Copy code
 pip install -r requirements.txt
-`
+```
 This will install Streamlit, SpeechRecognition, and PyAudio.
 
 Install PocketSphinx (offline speech recognition engine):
 
 **Usage**
 Run the application:
-`
+```
 shell
 Copy code
 streamlit run app.py
-`
+```
 Open the provided URL in your web browser.
 
 Click the "Record" button to start recording your speech.
