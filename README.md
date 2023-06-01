@@ -10,12 +10,12 @@ Installation
 Clone the repository:
 ```
 git clone <repository-url>
+```
 Navigate to the project directory:
 ```
-```
 cd speech-to-text-web-app
-Install the required dependencies:
 ```
+Install the required dependencies
 ```
 pip install -r requirements.txt
 ```
