@@ -23,7 +23,7 @@ This will install Streamlit, SpeechRecognition, and PyAudio.
 
 Install PocketSphinx (offline speech recognition engine):
 
-**Usage**
+## Usage
 Run the application:
 ```
 streamlit run app.py
