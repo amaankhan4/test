@@ -6,16 +6,16 @@ Python
 Streamlit: A Python library for building interactive web applications
 SpeechRecognition: A Python library for performing speech recognition
 PyAudio: A Python library for audio input and output
-Installation
-Clone the repository:
+## Installation
+1.Clone the repository:
 ```
 git clone <repository-url>
 ```
-Navigate to the project directory:
+2.Navigate to the project directory:
 ```
 cd speech-to-text-web-app
 ```
-Install the required dependencies
+3.Install the required dependencies
 ```
 pip install -r requirements.txt
 ```
